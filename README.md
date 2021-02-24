@@ -71,6 +71,7 @@ No segundo dia vamos iniciar a configuração do banco de dados na nossa aplica�
 
   * Para nossa aplicação usaremos um ORM 
   > ORM: Object Relatoional Mapping -> é um mapeamento entre objetos, ou seja, ele vai pegar nossa classe (entidade) e vai conseguir essa classe pra uma tabela especifica do banco de dados.
+   
     * Por que usar ORM?
       * Ele trabalha bem com typescipt;
       * Por ele ser genérico, ou seja, facilmente podemos alterá-lo para outras opções como SQL por exemplo
@@ -116,4 +117,4 @@ No segundo dia vamos iniciar a configuração do banco de dados na nossa aplica�
   > Como o nome diz é um controlador. Mas explicando de forma melhor: é onde ficam as regras de negócio, funcionalidades e afins.
   > Por exemplo, no server chamaremos o controller e lá faremos todas execuções e regras de negócio que precisarmos.
 
-  *
+  #jornadainfinita
